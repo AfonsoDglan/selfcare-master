@@ -94,14 +94,16 @@ main{
     font-size: 18px;
 }
 .produto{
-    width: 320px;
+    width: 33%;
     height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: left;
+    align-items: center;
 }
 #catalogo{
+    margin-top: 40px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
